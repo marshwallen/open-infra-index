@@ -7,7 +7,7 @@
 </div>
 <hr>
 
-# hello deepseek open infra
+# Hello, DeepSeek Open Infra!
 
 ## 202502 Open-Source Week
 We're a tiny team @deepseek-ai pushing our limits in AGI exploration.
