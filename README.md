@@ -9,12 +9,14 @@
 
 # hello deepseek open infra
 
-## open week 20250224-20250228
+## Open-Source Week 20250224-20250228
 We're a small team @deepseek-ai pushing our limits in AGI exploration.
 
-Starting next Monday, we'll open-source 5 repos – one daily drop – not because we've made grand claims, but simply as developers sharing our small-but-sincere progress with full transparency.
+Starting next Monday, we'll open-source 5 repos – one daily drop – not because we've made grand claims, 
+but simply as developers sharing our small-but-sincere progress with full transparency.
 
-These are humble building blocks of our online service: documented, deployed and battle-tested in production. No vaporware, just code that moved our tiny moonshot forward.
+These are humble building blocks of our online service: documented, deployed and battle-tested in production. 
+No vaporware, just code that moved our tiny moonshot forward.
 
 Why? Because every line shared becomes collective momentum that accelerates the journey.
 Daily unlocks begin in 72 hours. No ivory towers - just pure garage-energy and community-driven innovation 🔧
