@@ -23,14 +23,26 @@ Daily unlocks begin soon. No ivory towers - just pure garage-energy and communit
 
 Stay tuned – let's geek out in the open together.
 
-### Day 1 - FlashMLA
+### Day 1 - [FlashMLA](https://github.com/deepseek-ai/FlashMLA)
 **Efficient MLA Decoding Kernel for Hopper GPUs**  
 Optimized for variable-length sequences, battle-tested in production  
 
-🔗 <a href="https://github.com/deepseek-ai/FlashMLA"><b>GitHub Repo</b></a>  
+🔗 <a href="https://github.com/deepseek-ai/FlashMLA"><b>FlashMLA GitHub Repo</b></a>  
 ✅ BF16 support  
 ✅ Paged KV cache (block size 64)  
 ⚡ Performance: 3000 GB/s memory-bound | BF16 580 TFLOPS compute-bound on H800
+
+### Day 2 - [DeepEP](https://github.com/deepseek-ai/DeepEP)
+
+Excited to introduce **DeepEP** - the first open-source EP communication library for MoE model training and inference.
+
+🔗 <a href="https://github.com/deepseek-ai/DeepEP"><b>DeepEP GitHub Repo</b></a>  
+✅ Efficient and optimized all-to-all communication  
+✅ Both intranode and internode support with NVLink and RDMA  
+✅ High-throughput kernels for training and inference prefilling  
+✅ Low-latency kernels for inference decoding  
+✅ Native FP8 dispatch support  
+✅ Flexible GPU resource control for computation-communication overlapping  
 
 ### Ongoing Releases...
 
