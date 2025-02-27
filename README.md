@@ -24,10 +24,11 @@ Daily unlocks begin soon. No ivory towers - just pure garage-energy and communit
 Stay tuned – let's geek out in the open together.
 
 ### Day 1 - [FlashMLA](https://github.com/deepseek-ai/FlashMLA)
+
 **Efficient MLA Decoding Kernel for Hopper GPUs**  
 Optimized for variable-length sequences, battle-tested in production  
 
-🔗 <a href="https://github.com/deepseek-ai/FlashMLA"><b>FlashMLA GitHub Repo</b></a>  
+🔗 [**FlashMLA GitHub Repo**](https://github.com/deepseek-ai/FlashMLA)  
 ✅ BF16 support  
 ✅ Paged KV cache (block size 64)  
 ⚡ Performance: 3000 GB/s memory-bound | BF16 580 TFLOPS compute-bound on H800
@@ -36,7 +37,7 @@ Optimized for variable-length sequences, battle-tested in production
 
 Excited to introduce **DeepEP** - the first open-source EP communication library for MoE model training and inference.
 
-🔗 <a href="https://github.com/deepseek-ai/DeepEP"><b>DeepEP GitHub Repo</b></a>  
+🔗 [**DeepEP GitHub Repo**](https://github.com/deepseek-ai/DeepEP)  
 ✅ Efficient and optimized all-to-all communication  
 ✅ Both intranode and internode support with NVLink and RDMA  
 ✅ High-throughput kernels for training and inference prefilling  
@@ -46,30 +47,30 @@ Excited to introduce **DeepEP** - the first open-source EP communication library
 
 ### Day 3 - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
 
-Introducing DeepGEMM - an FP8 GEMM library that supports both dense and MoE GEMMs, powering V3/R1 training and inference.
+Introducing **DeepGEMM** - an FP8 GEMM library that supports both dense and MoE GEMMs, powering V3/R1 training and inference.
 
-⚡ Up to 1350+ FP8 TFLOPS on Hopper GPUs   
+🔗 [**DeepGEMM GitHub Repo**](https://github.com/deepseek-ai/DeepGEMM)  
+⚡ Up to 1350+ FP8 TFLOPS on Hopper GPUs  
 ✅ No heavy dependency, as clean as a tutorial  
-✅ Fully Just-In-Time compiled   
-✅ Core logic at ~300 lines - yet outperforms expert-tuned kernels across most matrix sizes   
-✅ Supports dense layout and two MoE layouts   
-
-🔗 GitHub: https://github.com/deepseek-ai/DeepGEMM
+✅ Fully Just-In-Time compiled  
+✅ Core logic at ~300 lines - yet outperforms expert-tuned kernels across most matrix sizes  
+✅ Supports dense layout and two MoE layouts  
 
 ### Day 4 - Optimized Parallelism Strategies
-✅  DualPipe - a bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.   
-🔗 https://github.com/deepseek-ai/DualPipe   
 
-✅  EPLB - an expert-parallel load balancer for V3/R1.   
-  🔗 https://github.com/deepseek-ai/eplb   
+✅ **DualPipe** - a bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.  
+🔗 [**GitHub Repo**](https://github.com/deepseek-ai/DualPipe)  
 
-📊 Analyze computation-communication overlap in V3/R1.   
-  🔗 https://github.com/deepseek-ai/profile-data    
+✅ **EPLB** - an expert-parallel load balancer for V3/R1.  
+🔗 [**GitHub Repo**](https://github.com/deepseek-ai/eplb)  
+
+📊 Analyze computation-communication overlap in V3/R1.  
+🔗 [**GitHub Repo**](https://github.com/deepseek-ai/profile-data)  
 
 ### Ongoing Releases...
 
-## 2024 AI Infrastructure Paper (SC24)   
+## 2024 AI Infrastructure Paper (SC24)  
 ### Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning
 
-<a href="https://dl.acm.org/doi/10.1109/SC41406.2024.00089"><b>📄 Paper Link</b></a>
-<a href="https://arxiv.org/abs/2408.14158"><b>📄 Arxiv Paper Link</b></a>
+[**📄 Paper Link**](https://dl.acm.org/doi/10.1109/SC41406.2024.00089)  
+[**📄 Arxiv Paper Link**](https://arxiv.org/abs/2408.14158)
