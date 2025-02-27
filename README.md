@@ -56,6 +56,15 @@ Introducing DeepGEMM - an FP8 GEMM library that supports both dense and MoE GEMM
 
 🔗 GitHub: https://github.com/deepseek-ai/DeepGEMM
 
+### Day 4 - Optimized Parallelism Strategies
+✅  DualPipe - a bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.   
+🔗 https://github.com/deepseek-ai/DualPipe   
+
+✅  EPLB - an expert-parallel load balancer for V3/R1.   
+  🔗 https://github.com/deepseek-ai/eplb   
+
+📊 Analyze computation-communication overlap in V3/R1.   
+  🔗 https://github.com/deepseek-ai/profile-data    
 
 ### Ongoing Releases...
 
