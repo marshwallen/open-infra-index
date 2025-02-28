@@ -67,7 +67,19 @@ Introducing **DeepGEMM** - an FP8 GEMM library that supports both dense and MoE 
 📊 Analyze computation-communication overlap in V3/R1.  
 🔗 [**GitHub Repo**](https://github.com/deepseek-ai/profile-data)  
 
-### Ongoing Releases...
+### Day 5 - 3FS, Thruster for All DeepSeek Data Access
+
+Fire-Flyer File System (3FS) - a parallel file system that utilizes the full bandwidth of modern SSDs and RDMA networks.
+
+⚡ 6.6 TiB/s aggregate read throughput in a 180-node cluster     
+⚡ 3.66 TiB/min throughput on GraySort benchmark in a 25-node cluster       
+⚡ 40+ GiB/s peak throughput per client node for KVCache lookup            
+🧬 Disaggregated architecture with strong consistency semantics             
+✅ Training data preprocessing, dataset loading, checkpoint saving/reloading, embedding vector search & KVCache lookups for inference in V3/R1
+
+📥 3FS → https://github.com/deepseek-ai/3FS
+⛲ Smallpond - data processing framework on 3FS → https://github.com/deepseek-ai/smallpond
+
 
 ## 2024 AI Infrastructure Paper (SC24)  
 ### Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning
