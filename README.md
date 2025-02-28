@@ -77,7 +77,7 @@ Fire-Flyer File System (3FS) - a parallel file system that utilizes the full ban
 🧬 Disaggregated architecture with strong consistency semantics             
 ✅ Training data preprocessing, dataset loading, checkpoint saving/reloading, embedding vector search & KVCache lookups for inference in V3/R1
 
-📥 3FS → https://github.com/deepseek-ai/3FS
+📥 3FS → https://github.com/deepseek-ai/3FS                
 ⛲ Smallpond - data processing framework on 3FS → https://github.com/deepseek-ai/smallpond
 
 
