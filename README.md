@@ -81,6 +81,22 @@ Fire-Flyer File System (3FS) - a parallel file system that utilizes the full ban
 ⛲ Smallpond - data processing framework on 3FS → https://github.com/deepseek-ai/smallpond
 
 
+### Day 6 - One More Thing: DeepSeek-V3/R1 Inference System Overview
+Optimized throughput and latency via:            
+🔧 Cross-node EP-powered batch scaling          
+🔄 Computation-communication overlap      
+⚖️ Load balancing         
+
+Production data of V3/R1 online services:         
+⚡ 73.7k/14.8k input/output tokens per second per H800 node          
+🚀 Cost profit margin 545%             
+
+![Cost And Theoretical Income.jpg](202502OpenSourceWeek/figures/Cost%20And%20Theoretical%20Income.jpg)
+
+💡 We hope this week's insights offer value to the community and contribute to our shared AGI goals.
+
+📖 Deep Dive: 🔗[Day 6 - One More Thing: DeepSeek-V3/R1 Inference System Overview](202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)
+
 ## 2024 AI Infrastructure Paper (SC24)  
 ### Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning
 
