@@ -95,7 +95,8 @@ Production data of V3/R1 online services:
 
 💡 We hope this week's insights offer value to the community and contribute to our shared AGI goals.
 
-📖 Deep Dive: 🔗[Day 6 - One More Thing: DeepSeek-V3/R1 Inference System Overview](202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)
+📖 Deep Dive: 🔗[Day 6 - One More Thing: DeepSeek-V3/R1 Inference System Overview](202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)     
+📖 中文版: 🔗[DeepSeek-V3 / R1 推理系统概览](https://zhuanlan.zhihu.com/p/27181462601)
 
 ## 2024 AI Infrastructure Paper (SC24)  
 ### Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning
